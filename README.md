@@ -1,4 +1,4 @@
-<img width="1103" alt="image" src="https://github.com/PranavPonni/Motion-Planning-for-2-DOF-/assets/24287665/33a9346e-5709-42c5-a5d6-641e60bade44"># Motion-Planning-for-2-DOF-
+Motion-Planning-for-2-DOF-
 Robot consists of mobile base and rotates in 2D plane, with 2 DOF link mechanism. C program
 
 Make a simulator for a mobile manipulator robot shown in Fig. 1. This robot consists of a mobile base that can move and rotate in a 2D plane, and a robot arm with a 2-DOF link mechanism mounted on the mobile base.
