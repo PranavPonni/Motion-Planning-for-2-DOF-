@@ -1,5 +1,5 @@
 Motion-Planning-for-2-DOF-
-Robot consists of mobile base and rotates in 2D plane, with 2 DOF link mechanism. C program
+Robot consists of mobile base and rotates in 2D plane, with 2 DOF link mechanism. C programming.
 
 Make a simulator for a mobile manipulator robot shown in Fig. 1. This robot consists of a mobile base that can move and rotate in a 2D plane, and a robot arm with a 2-DOF link mechanism mounted on the mobile base.
 • Suppose that the robot is in the 3D space field shown in Fig. 2. The robot moves between the black dots on the grid. It can stop, turn, and collect objects only on the dots.
